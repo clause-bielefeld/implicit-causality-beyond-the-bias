@@ -7,4 +7,4 @@ This is the code for our paper "Beyond the Bias: Unveiling the Quality of Implic
 - **scripts**: contains notebooks
 - **scripts/produce-continuations.ipynb**: generate prompt continuations with GPT-2 and mGPT 
 - **scripts/hyperparameter-testing.ipynb**: use automatic metrics to decide on the models' hyperparamters 
-- **scripts/evaluate_continuations.ipynb**: evaluate the prompt continuations by automatic measures and investigate (correlation with) the human evaluation
+- **scripts/evaluate_continuations.ipynb**: evaluate the prompt continuations by automatic measures and investigate (correlation with) the results from the human evaluation study
