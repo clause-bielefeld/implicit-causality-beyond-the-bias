@@ -2,6 +2,8 @@
 
 This is the code for our paper "Beyond the Bias: Unveiling the Quality of Implicit Causality Prompt Continuations in Language Models" (INLG 2023)
 
+The paper can be found here: https://aclanthology.org/2023.inlg-main.15/ 
+
 ## Files
 - **data**: contains prompts for producing the continuations, (model- and human produced) prompt continuations as well as results from (automatic and human) evaluations
 - **scripts**: contains notebooks
